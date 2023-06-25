@@ -3,9 +3,9 @@
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
 * [Awesome JavaScript](#awesome-javascript)
-  * [Package Managers](#package-managers)
-  * [Component management](#component-management)
-  * [Loaders](#loaders)
+  1 [Package Managers](#package-managers)
+  2 [Component management](#component-management)
+  3 [Loaders](#loaders)
   * [Transpilers](#transpilers)
   * [Bundlers](#bundlers)
   * [Minimizers](#minimizers)
